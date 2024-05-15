@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hpe_firstReact/static/css/main.6f14165a.css",
+    "main.js": "/hpe_firstReact/static/js/main.c385677b.js",
+    "static/js/453.fc89fcfa.chunk.js": "/hpe_firstReact/static/js/453.fc89fcfa.chunk.js",
+    "index.html": "/hpe_firstReact/index.html",
+    "main.6f14165a.css.map": "/hpe_firstReact/static/css/main.6f14165a.css.map",
+    "main.c385677b.js.map": "/hpe_firstReact/static/js/main.c385677b.js.map",
+    "453.fc89fcfa.chunk.js.map": "/hpe_firstReact/static/js/453.fc89fcfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f14165a.css",
+    "static/js/main.c385677b.js"
+  ]
+}
